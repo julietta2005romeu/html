@@ -1,0 +1,106 @@
+body {
+  background: rgb(169, 167, 162);
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.width {
+  display: flex;
+  margin-top: 100px;
+}
+.content h1 {
+  font-size: 220px;
+  line-height: 0px;
+}
+
+.content span {
+  font-size: 32px;
+}
+
+.content p {
+  font-size: 32px;
+}
+
+.buttons button {
+  padding: 20px 30px;
+  cursor: pointer;
+  border: none;
+  font-size: 32px;
+  border: 1px solid black;
+}
+
+.buy {
+  background: black;
+  color: white;
+}
+.work {
+  margin: 200px 100px;
+}
+.work h2 {
+  margin: 0 0 50px 0;
+}
+.imge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 417px;
+  height: 630px;
+  flex-shrink: 0;
+  background: #988989;
+}
+.imge img {
+  width: 286px;
+  height: 410px;
+}
+.imge {
+  margin-bottom: 80px;
+}
+.tex1 p {
+  font-size: 32px;
+}
+.tex1 span {
+  font-size: 35px;
+}
+.foto1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 496px;
+  height: 630px;
+  background: #988989;
+  margin: 0 0 50px 0;
+}
+.tex2 {
+  width: 500px;
+  height: 196px;
+  font-size: 32px;
+  margin-bottom: 200px;
+}
+.tex3 h4 {
+  font-size: 32px;
+  margin: 0;
+}
+.tex3 p {
+  font-size: 30px;
+}
+.tex3 span {
+  color: #bb8b5d;
+  font-family: League Spartan;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 170%;
+  border-bottom: 2px solid #bb8b5d;
+}
+.lol {
+  margin: 20px 0;
+  width: 178.025px;
+  height: 3px;
+  background: #707070;
+}
